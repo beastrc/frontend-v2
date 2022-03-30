@@ -152,7 +152,7 @@ import HomeEducationItems from '@/beethovenx/components/pages/home/HomeEducation
         src="~@/beethovenx/assets/images/learning-the-notes.svg"
         class="mb-8 -ml-4"
       />
-      <HomeEducationItems />
+      // <HomeEducationItems />
     </div>
     <!--    <div class="lg:container lg:mx-auto pt-10 md:pt-20">
       <img
@@ -161,6 +161,7 @@ import HomeEducationItems from '@/beethovenx/components/pages/home/HomeEducation
       />
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-4"></div>
     </div>-->
+    // aa
   </div>
 </template>
 
